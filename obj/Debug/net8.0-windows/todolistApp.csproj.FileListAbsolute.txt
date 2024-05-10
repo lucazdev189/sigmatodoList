@@ -1,0 +1,16 @@
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.Form1.resources
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.csproj.GenerateResource.cache
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.AssemblyInfoInputs.cache
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.AssemblyInfo.cs
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.csproj.CoreCompileInputs.cache
+E:\Downloads\coding stuf\todolistApp\todolistApp\bin\Debug\net8.0-windows\todolistApp.exe
+E:\Downloads\coding stuf\todolistApp\todolistApp\bin\Debug\net8.0-windows\todolistApp.deps.json
+E:\Downloads\coding stuf\todolistApp\todolistApp\bin\Debug\net8.0-windows\todolistApp.runtimeconfig.json
+E:\Downloads\coding stuf\todolistApp\todolistApp\bin\Debug\net8.0-windows\todolistApp.dll
+E:\Downloads\coding stuf\todolistApp\todolistApp\bin\Debug\net8.0-windows\todolistApp.pdb
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.dll
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\refint\todolistApp.dll
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.pdb
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\todolistApp.genruntimeconfig.cache
+E:\Downloads\coding stuf\todolistApp\todolistApp\obj\Debug\net8.0-windows\ref\todolistApp.dll
